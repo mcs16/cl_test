@@ -1,0 +1,2 @@
+Link to MIT BECL poster templates
+https://github.com/MIT-BECL/Poster_Resources
