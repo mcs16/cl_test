@@ -10,5 +10,5 @@ has_toc: false
   {: .fs-8 }
 # Templates
 
-Powerpoint example slides with guidelines for presentation structure: [Download](gallery/presentation_template.pptx)
-LaTeX/Beamer template by Professor Karl Broman: [link to Github](https://github.com/kbroman/Talk_Graphs)
+- Powerpoint example slides with guidelines for presentation structure: [Download](gallery/presentation_template.pptx)
+- LaTeX/Beamer template by Professor Karl Broman: [link to Github](https://github.com/kbroman/Talk_Graphs)
