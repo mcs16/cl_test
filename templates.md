@@ -10,11 +10,5 @@ has_toc: false
   {: .fs-8 }
 # Templates
 
-Templates are provided in both landscape and portrait orientations, with support
-for different tools. A quick summary of the tools are listed below:
-
-## Tools
-- Microsoft Powerpoint - [Templates](), [Poster_2_template](), [Get here]()
-- Inkscape - [Template 1](templates/inkscape_template_colored_background.svg), [Template 2](templates/inkscape_template_white_background.svg)
-- Adobe Illustrator -
-- LaTeX
+- Powerpoint example slides with guidelines for presentation structure: [Download](gallery/presentation_template.pptx)
+- LaTeX/Beamer template by Professor Karl Broman: [link to Github](https://github.com/kbroman/Talk_Graphs)
