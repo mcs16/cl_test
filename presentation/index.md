@@ -6,13 +6,13 @@ description: "Home for poster design templates and best practices"
 permalink: /
 ---
 
-# Design your poster
+# Design your presentation
 {: .fs-9 }
 
 Learn best practices, build off our templates, and browse our annotated examples 
 {: .fs-6 .fw-300 }
 
-Compiled by Krishna Shrinivas, Maxwell Nagarajan, and Michael Orella 
+Compiled by Mica Smith, Krishna Shrinivas, Maxwell Nagarajan, and Michael Orella 
 {: .fs-2 .fw-300 }
 
 ---
@@ -25,24 +25,12 @@ Compiled by Krishna Shrinivas, Maxwell Nagarajan, and Michael Orella
   {: .fs-6 }
 - [Templates](templates)
 
-    {: .fs-5 }
-  - [Poster-2.0](templates/poster_2)
-
-    {: .fs-5 }
-  - [Classic poster templates](templates/classic)
-
-      {: .fs-4 }
-    - Adobe Illustrator
-    - Powerpoint
-    - Inkscape
-    - LaTeX
-
-{: .fs-6 }
+  {: .fs-6 }
 - [Annotated Examples](annotated-examples)
 
 
 {: .fs-2 }
-Get a copy of our entire [repo](https://github.mit.edu/mit-chemecl/poster)!
+Get a copy of our entire [repo](https://github.mit.edu/mit-chemecl/presentation)!
 
 ---
 
